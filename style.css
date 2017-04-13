@@ -1,0 +1,412 @@
+/***************************************
+          GLOBAL CSS
+***************************************/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center {
+    margin: 0 auto;
+    display: block;
+}
+
+.no-padding{
+    padding: 0;
+}
+/***************************************
+          TOP Sction CSS
+***************************************/
+.top-sec {
+    background-color: white;
+    background: url("take2.jpg") no-repeat center;
+    background-size: cover;
+    
+}
+.logo{
+    padding: 30px 10px ;
+    max-height: 110px;
+}
+.top-menu h1 {
+   
+    padding: 250px 0 15px 35px;
+    color: white;
+    font-size: 48px
+}
+.top-menu p{
+    padding: 0 0 250px 35px;
+    color: white;
+    max-width: 400px;
+    font-size: 10px
+}
+.header {
+    padding: 0 50px 50px;
+}
+
+
+/***************************************
+          Phone Sction CSS
+***************************************/
+.phone {
+    max-height: 750px;
+}
+.some {
+    position:relative;
+    top: -600px;
+    max-height: 400px;
+}
+
+
+.sector-2 h3 {
+    padding: 70px 0 0 ;
+}
+.phone-col {
+    padding-top: 90px;
+}
+.text {
+    padding: 15px 0;
+}
+
+
+/*********************************
+image container
+**********************************/
+
+
+.image-sec{
+  
+   padding-top: 40px;
+}
+
+
+.signup-box{
+   
+    padding: 10px 20px 36px 20px ;
+    background: url("wide.png") no-repeat center;
+    background-size: cover;
+    color: white; 
+}
+.signup-box p{
+    padding: 10px 0 15px 0;
+    max-width: 400px;
+    font-size: 12px;
+}
+.signup-box a{
+    color: white;
+    
+}
+.signup-box h3{
+    font-size: 21px;
+}
+
+.image-box{
+    background-color:#f5989d;
+    padding: 0 10 41 25px;
+    color: white;
+}
+.image-box h3{
+    color: white;
+    font-size: 21px;
+    padding-top: 10px;
+}
+.image-box a {
+    color: white;
+}
+.image-box p {
+    padding: 10px 0;
+    font-size: 12px;
+}
+#image2{
+    background: url("2nd-image2.jpg") no-repeat center;
+    background-size: cover;
+}
+#last-img{
+    background: url("image3.jpg") no-repeat center;
+    background-size: cover;
+}
+.box-1{
+    background-color: #615f7d;
+}
+.box-2{
+    background-color: #bd8cbf;
+}
+.box-3{
+    background-color: #82ca9c;
+}
+/***********************************************/
+
+
+.details-container h3 {
+    padding: 50px 0 40px 15px;
+}
+.details-container h5{
+    padding-bottom: 15px
+}
+
+.details-container p{
+    padding-bottom: 150px
+}
+
+.car {
+    background: url("car2.jpg") no-repeat center;
+    background: cover;
+    
+}
+
+.car h1{
+    color: white;
+    padding-top: 400px;
+    font-size: 60px;
+}
+.car p{
+    max-width: 400px;
+    color: white;
+    padding: 10px 0;
+    font-size: 10px;
+}
+.car a{
+    
+    color: white;
+
+}
+
+.more-power{
+
+    padding-bottom: 100px;
+}
+
+.fa-long-arrow-right{
+    color: white;
+    padding-left: 15px;
+}
+.bar{
+    background-color: #82ca9c;
+}
+.bar{
+    color: white;
+}
+.bar h3{
+    padding: 90px 0 35px 15px;
+}
+.bar h5{
+    padding-bottom: 15px;
+}
+.bar p{
+    padding-bottom: 150px;
+}
+/******************************
+     Before the last section
+******************************/
+.team-plan{
+    background-color: #f6f7fa;
+    padding-bottom: 140px;
+}
+.legecy button{
+    padding: 4px 15px;
+    text-transform: uppercase;
+    font-size: 10px;
+    color: white;
+    background-color: #e1e1e1;
+    border: none;
+    border-radius: 5px;
+    font-weight: 800;
+    
+}
+
+
+.legecy h3{
+    padding-bottom: 10px;
+}
+.legecy p{
+    padding-bottom: 30px;
+    max-width: 450px;
+}
+.legecy a {
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 12px 35px;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    background-color: #82ca9c;
+    border-radius: 3px
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    padding-top: 25px
+}
+ul li i{
+    padding:5px;
+    color: #c5c5c5;
+}
+.goto{
+    padding-top: 150px;
+}
+.box{
+    margin-top: 100px;
+    background-color: white;
+    padding: 50px;
+    box-shadow: 0 0 70px #C0C0C0;
+}
+
+.box button{
+    background-color: #bd8cbf;
+}
+/************************************************
+Footer Sction
+************************************************/
+.last-sec{
+    color: white;
+    background-color: #192431;
+    font-size: 11px;
+    padding-top: 90px;
+    padding-bottom: 120px;
+    font-weight: 300;
+}
+.left-sec,
+.right-side h5{
+    font-weight: 500;
+    padding-bottom: 10px;
+    
+}
+.left-sec p{
+    padding-bottom: 40px;
+    max-width: 500px;
+}
+.footer ul li{
+    padding-top:0;
+    display: block;
+    padding-bottom: 5px;
+}
+.right-side{
+    padding-left: 40px;
+}
+.search {
+    padding: 12px 100px;
+}
+.ok{
+    padding: 16px;
+    background-color: #82ca9c;
+    margin-left: -4px;
+}
+.right-side p {
+    font-size: 10px;
+    max-width: 300px;
+    padding: 10px 0;
+    color:#479cc1;
+    font-weight: 400;
+}
+/**********************************************************************
+     Media query
+
+**********************************************************************/
+
+@media only screen and (max-width:980px){
+   
+    .some {
+    position:relative;
+    top: -400px;
+    
+}
+    .phone {
+        max-height: 500px;
+    }
+    
+     .image-sec{
+        padding:10px;
+    }
+   
+}
+
+
+
+@media only screen and (max-width:990px)
+{
+    .search{
+        padding-right: 40px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    
+    .top-menu h1 {
+       padding: 50px 0 15px 35px;
+        
+    }
+    
+    .top-menu p {
+    padding: 0 0 50px 35px;
+    }
+    .sector-2 h3 {
+    padding: 30px 0 0;
+    }
+    
+    .details-container h3 {
+    padding: 20px 0 10px 15px;
+   }
+    
+    .details-container p {
+       padding-bottom: 10px;
+    }
+    
+    .car h1 {
+    color: white;
+    padding-top: 70px;
+    }
+    
+    
+    .bar h3 {
+    padding: 17px 0 10px 15px;
+     }
+    
+    .bar p {
+    padding-bottom: 20px;
+   }
+    
+    .goto {
+    padding-top: 80px;
+    }
+    
+    .team-plan {
+    padding-bottom: 50px;
+   }
+    
+    .last-sec {
+       padding-top: 39px;
+    }
+    
+     .some {
+    position:relative;
+    top: 0;
+    max-height: 800px;
+    }
+    .phone {
+        max-height: 400px;
+    }
+}
+
+
+@media only screen and (max-width:480px) {
+    .search {
+        padding-right: 40px;
+    }
+}
+
+@media only screen and (max-width:385px){
+    .search{
+        padding-right: 10px;
+    }
+    .ok{
+        margin: 0;
+    }
+    .right-side{
+        padding-left: 5px;
+    }
+}
